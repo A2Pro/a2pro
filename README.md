@@ -1,4 +1,8 @@
-## Hi there 👋
+## A2Pro
+
+I'm Aayush Palai
+
+The A2 in A2Pro is NOT because I have 2 A's in my first name.
 
 <!--
 **A2Pro/a2pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
