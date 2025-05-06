@@ -2,7 +2,11 @@
 
 I'm Aayush Palai
 
-The A2 in A2Pro is NOT because I have 2 A's in my first name.
+
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=a2pro&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a2pro&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 **A2Pro/a2pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
